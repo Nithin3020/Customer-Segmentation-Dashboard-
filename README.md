@@ -24,3 +24,13 @@ The dashboard provides a comprehensive view of sales performance, customer activ
 - Sales distribution across different countries/regions
 ##Interactive Filters  
 - Dynamic filtering by date, region, and customer segments  
+## Screenshot
+- <img width="1920" height="1080" alt="Screenshot 2026-05-05 230113" src="https://github.com/user-attachments/assets/82d772f7-db4a-40e3-8594-1c2daa578e40" />
+- <img width="1372" height="774" alt="Screenshot 2026-05-05 230128" src="https://github.com/user-attachments/assets/29a384f8-fe05-47ce-b1db-190bfdf53cfd" />
+- <img width="1371" height="776" alt="Screenshot 2026-05-05 230145" src="https://github.com/user-attachments/assets/06e03e68-b9ef-446f-9cdb-e37657230730" />
+## Insights Gained 
+- Identified top-performing customer segments contributing the majority of revenue  
+- Observed seasonal trends in sales  
+- Detected inactive or churn-risk customers for potential re-engagement strategies 
+
+
